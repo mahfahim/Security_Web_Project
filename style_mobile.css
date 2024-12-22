@@ -1,0 +1,97 @@
+
+.security_man{ 
+    width: 70%
+}
+
+.banner_container_2{
+    gap: 10px;
+    right: 10px;
+    font-size:xx-small;
+}
+
+.hour24{
+    position: relative;
+    left: 10px;  
+    top:5px;
+}
+.h24-img{
+    height: 70%;
+    width: 60%;
+}
+.banner-row{
+    display: flex;
+    justify-content:space-between;
+    gap: 100px;
+
+}
+.banner-col{
+    position: relative;
+    top: 100px;
+    left: 30px;
+    font-size:smaller;
+}
+.banner-img{
+    position: relative;
+    top: 100px
+}
+
+.container1_all_logos{
+    display: flex;
+    flex-direction: column;  
+    position: relative;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.top_side , .bottom_side{
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.consult-img{
+    height: 90%;
+    width: 100%;
+ }
+
+ .descrive{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+ .logo_img_title{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    position: relative;
+    gap: 5px;
+}
+
+.call-img{
+    height:50%;
+    weight:50%;
+    position: relative;
+    top:5px
+}
+.call-text{
+    font-size:90%;
+    position: relative;
+    top:5px
+}
+
+.call-num{
+    position: relative;
+    top:-50px;
+}
+
+.footer_row{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items: center;
+}
